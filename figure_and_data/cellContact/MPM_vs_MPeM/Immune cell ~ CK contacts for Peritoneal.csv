@@ -1,0 +1,68 @@
+"","core ID","MVB","casetype","subtype","CD4~CK","CD8~CK","CD68~CK","FOXP3~CK","CD20~CK"
+"52","071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,E]_[12318,45078]","mvb1035","Peritoneal","epithelial or epithelioid",4.19482316106393,3.3929505426069,3.17996455848319,NA,NA
+"53","071922 Immunopheno Motif ck #01 Meso TMA 4_Scan1_Core[1,5,F]_[13880,45406]","mvb1035","Peritoneal","epithelial or epithelioid",NA,5.49819103121902,NA,NA,NA
+"78","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,1,B]_[10771,43439]","4001","Peritoneal","epithelial or epithelioid",NA,4.23066979028192,0.536321215691274,NA,NA
+"79","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[1,1,C]_[11788,43471]","4001","Peritoneal","epithelial or epithelioid",NA,NA,0.555240758858616,NA,NA
+"84","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,1,B]_[9273,54389]","4041","Peritoneal","epithelial or epithelioid",NA,1.92477589635265,4.95533649330281,NA,NA
+"85","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,1,C]_[10227,54508]","4041","Peritoneal","epithelial or epithelioid",5.69192529350075,2.41352039940444,NA,NA,NA
+"88","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,3,B]_[9035,56033]","4047","Peritoneal","Not specified",3.55919329539241,4.03164044372646,4.96272885647959,NA,4.84748238474288
+"89","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[10,3,C]_[9965,56176]","4048","Peritoneal","epithelial or epithelioid",3.07600396991793,2.61492913444262,3.08256174096087,NA,4.11954166115807
+"92","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,1,A]_[11489,54746]","4041","Peritoneal","epithelial or epithelioid",3.10197361780425,1.66284937885408,4.65048721411469,NA,NA
+"100","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,A]_[11203,56366]","4048","Peritoneal","epithelial or epithelioid",4.12742503622542,2.75752333732025,2.94568937435137,5.88952487650689,3.66964694239043
+"101","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,B]_[12109,56605]","4048","Peritoneal","epithelial or epithelioid",NA,4.37814697424089,2.51120095251677,NA,NA
+"102","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,C]_[13014,56748]","4049","Peritoneal","epithelial or epithelioid",3.46749480426147,3.18260836181324,4.34054124062288,2.52078796111978,NA
+"103","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[11,3,D]_[13896,56867]","4049","Peritoneal","epithelial or epithelioid",2.29688751408844,3.86476761039076,4.05958624912388,NA,NA
+"114","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,D]_[17895,56743]","4047","Peritoneal","Not specified",5.39309991499402,5.65576432108253,2.25487524477673,4.23687171441317,3.71757881832561
+"115","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,2,E]_[18753,56910]","4047","Peritoneal","Not specified",3.9798445729242,4.70691292998229,2.10949253904336,4.85819643370867,4.65833095513068
+"116","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,B]_[15989,57291]","4049","Peritoneal","epithelial or epithelioid",2.37629280245205,3.80195399568816,NA,NA,NA
+"117","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,C]_[16870,57434]","4050","Peritoneal","Not specified",3.10404144238613,2.50435571696975,3.8620433125573,NA,NA
+"118","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,D]_[17704,57601]","4050","Peritoneal","Not specified",NA,0.127819703454527,1.86877563722121,NA,NA
+"119","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[12,3,E]_[18610,57744]","4050","Peritoneal","Not specified",NA,2.15999386876637,3.05691521322261,NA,NA
+"135","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,1,A]_[12999,43506]","4001","Peritoneal","epithelial or epithelioid",NA,NA,0.0952972479475226,NA,NA
+"142","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[2,2,D]_[15636,44650]","4006","Peritoneal","Not Specified",NA,5.00883781431828,4.76902132428065,NA,NA
+"151","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,B]_[17807,45002]","4006","Peritoneal","Not Specified",1.93727028494434,1.57986357873988,2.45421153106462,5.19157397513202,NA
+"152","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[3,2,C]_[18641,45121]","4006","Peritoneal","Not Specified",4.26433523210339,3.32272208634597,2.53823000763287,NA,NA
+"171","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,B]_[13258,49199]","4020","Peritoneal","biphasic",3.95811582071653,2.78395173182614,3.45594957662634,4.98386919609807,NA
+"172","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,C]_[14188,49270]","4020","Peritoneal","biphasic",4.1677705209673,2.93773492507521,2.35052631739932,5.58377755801639,NA
+"173","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[5,4,D]_[15117,49414]","4020","Peritoneal","biphasic",4.89351587364509,2.52316410334578,2.71534090509456,3.45602119703722,NA
+"174","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,B]_[17483,47029]","4013","Peritoneal","Papillary",2.24669239758725,2.14618635473942,2.78694988237675,3.47752577058038,NA
+"175","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,C]_[18436,47188]","4013","Peritoneal","Papillary",4.35038413416946,5.28525920222701,6.14944454416176,4.82684635479638,NA
+"176","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,1,D]_[19294,47379]","4013","Peritoneal","Papillary",1.67914667214228,4.15720639125773,NA,NA,NA
+"183","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,C]_[18087,48904]","4020","Peritoneal","biphasic",2.65127468015819,3.43917490241635,2.29127779912996,4.93200015314693,NA
+"184","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,D]_[19167,48967]","4020","Peritoneal","biphasic",3.22706491116668,4.78708105352767,1.70561262990661,5.97924792670407,NA
+"185","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,3,E]_[19993,49444]","4020","Peritoneal","biphasic",4.95830168197107,3.05539539059556,1.67106383593086,NA,NA
+"186","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,B]_[17260,49730]","4023","Peritoneal","epithelial or epithelioid",4.37105746683778,2.67457477541058,2.21828523580209,3.95399072438628,NA
+"187","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,C]_[18182,49825]","4023","Peritoneal","epithelial or epithelioid",NA,3.00266515730538,2.23446079305249,5.652054890575,NA
+"188","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[6,4,D]_[18976,50016]","4023","Peritoneal","epithelial or epithelioid",NA,3.50943984059763,1.68323763555081,NA,NA
+"193","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[7,2,C]_[10836,50955]","4028","Peritoneal","Not specified",3.4094360165619,3.06702489939703,6.48134835498666,2.48932466248791,0.926437364741797
+"203","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,A]_[12100,51084]","4028","Peritoneal","Not specified",2.74028749336363,3.02550246343861,5.4041811434368,1.75063674896156,NA
+"204","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,2,B]_[12982,51203]","4028","Peritoneal","Not specified",2.16211580162065,3.96059168288188,3.48654100668935,NA,NA
+"214","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[8,4,D]_[14460,53157]","4036","Peritoneal","epithelial or epithelioid",3.48810179909942,3.96871690471144,3.41867489344361,NA,NA
+"231","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,B]_[16633,53456]","4036","Peritoneal","epithelial or epithelioid",3.63702263282094,3.06420152247725,4.09862642809655,1.38102172672456,NA
+"232","071922 Immunopheno Motif ck #03 NMVB2 mesothelioma_Scan2_Core[9,4,C]_[17539,53551]","4036","Peritoneal","epithelial or epithelioid",2.99383313447426,1.19737593174071,3.77588541727514,NA,NA
+"239","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,B]_[9191,51849]","MVB 0073","Peritoneal","epithelial or epithelioid",4.11634768851641,3.96249916657841,4.00195405241827,4.5713301182378,NA
+"242","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,E]_[12464,52040]","MVB 0033","Peritoneal","epithelial or epithelioid",5.41458439831005,4.65690978677547,3.87645834132833,NA,NA
+"243","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,H]_[15418,51945]","MVB 0073","Peritoneal","epithelial or epithelioid",NA,0.319798735382137,3.8421751401736,3.58542006076152,NA
+"245","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,3,K]_[18500,51818]","MVB 0033","Peritoneal","epithelial or epithelioid",3.44609140573231,4.60263969979048,3.99531194270645,NA,NA
+"246","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,4,B]_[9286,52961]","MVB 0075","Peritoneal","biphasic",3.57643466852465,6.05982460955784,2.74850027742872,3.73722075852072,6.37294644883816
+"252","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,C]_[10398,54137]","MVB 0059","Peritoneal","Papillary",4.63728080549039,3.56212269341195,3.88527909431149,NA,3.50601042589715
+"253","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,D]_[11447,54074]","MVB 0044","Peritoneal","epithelial or epithelioid",0.981347030926255,3.17695831869596,6.22235884304864,3.3567380468876,NA
+"255","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,5,I]_[16721,53756]","MVB 0059","Peritoneal","Papillary",7.34057776912204,6.78158009724323,7.42640588744672,NA,NA
+"257","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,B]_[9413,55186]","MVB 0226","Peritoneal","Desmoplastic",NA,NA,NA,NA,NA
+"259","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,6,H]_[15704,54995]","MVB 0226","Peritoneal","Desmoplastic",NA,NA,NA,NA,NA
+"260","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,D]_[11542,56202]","MVB 0051","Peritoneal","biphasic",NA,4.68344153228382,2.54889591729856,NA,NA
+"262","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[1,7,J]_[17833,56139]","MVB 0051","Peritoneal","biphasic",3.87967972394661,3.66698940481122,4.2492468452198,4.34640605718868,NA
+"268","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[4,2,A]_[16892,58995]","MVB 0070","Peritoneal","epithelial or epithelioid",5.34941966408894,6.06846280915478,3.66369038497661,1.02909875534874,NA
+"271","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,1,B]_[9456,62560]","MVB 0073","Peritoneal","epithelial or epithelioid",5.08300552916269,4.31603993795596,3.31120079434468,NA,NA
+"273","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,1,E]_[12602,62322]","MVB 0033","Peritoneal","epithelial or epithelioid",5.54743257233199,3.69833047671373,3.76807191849052,NA,NA
+"274","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,2,B]_[9528,63657]","MVB 0075","Peritoneal","biphasic",5.57727662223052,6.44524732258243,4.44506870608393,6.28087153991313,NA
+"278","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,C]_[10600,64562]","MVB 0059","Peritoneal","Papillary",4.52436862284811,4.79946862132295,6.52519580281345,6.41471670973403,6.23913545968619
+"279","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,3,D]_[11649,64681]","MVB 0044","Peritoneal","epithelial or epithelioid",4.30311691652607,3.94986144927697,7.33121701689992,NA,7.63156809694175
+"282","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[5,4,B]_[9718,65754]","MVB 0226","Peritoneal","Desmoplastic",NA,NA,NA,NA,NA
+"284","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,B]_[15574,62140]","MVB 0073","Peritoneal","epithelial or epithelioid",8.63987164418455,3.91824284496887,9.58908924337949,NA,NA
+"287","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,1,E]_[18791,62117]","MVB 0033","Peritoneal","epithelial or epithelioid",5.70032163594002,4.10504871861734,4.41829809291172,NA,NA
+"288","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,2,B]_[15669,63237]","MVB 0075","Peritoneal","biphasic",3.80430247488969,3.78107240771961,3.11332927763445,0.0124701111342385,NA
+"291","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,3,D]_[17766,64094]","MVB 0044","Peritoneal","epithelial or epithelioid",3.11225150960294,3.14006766798907,5.56706326302335,NA,4.04852904557198
+"293","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,4,D]_[17742,65048]","MVB 0045","Peritoneal","epithelial or epithelioid",NA,1.10413082094646,4.28609102807651,2.25255236504455,NA
+"295","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,5,D]_[17814,66263]","MVB 0051","Peritoneal","biphasic",NA,4.16583941031462,4.34938769513024,NA,NA
+"297","071922 Immunopheno Motif ck #04 NMVB TMA1_Scan1_Core[6,6,B]_[15836,67455]","MVB 0056","Peritoneal","epithelial or epithelioid",3.15932292990792,1.63234991373839,5.41970020840491,NA,4.25092082504029
