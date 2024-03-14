@@ -1,0 +1,64 @@
+,vars,pvalues,casetypes
+1,CD4 T cells~CD4 T cells,1.08E-01,All
+2,CD4 T cells~CD8 T cells,4.77E-01,All
+3,CD4 T cells~Macrophages,8.68E-02,All
+4,CD4 T cells.. Tumor cells,1.22E-01,All
+5,CD4 T cells.. Treg cells.,9.70E-01,All
+6,CD8 T cells~CD8 T cells,3.64E-01,All
+7,CD8 T cells~Macrophages,8.29E-01,All
+8,CD8 T cells.. Tumor cells,2.07E-01,All
+9,CD8 T cells.. Treg cells.,7.38E-02,All
+10,Macrophages~Macrophages,8.46E-01,All
+11,Macrophages.. Tumor cells,5.10E-01,All
+12,Tumor cells.. Tumor cells,3.97E-02,All
+13,Treg cells~.Macrophages,4.11E-01,All
+14,Treg cells~ Tumor cells,2.33E-01,All
+15,Treg cells~ Treg cells.,9.59E-01,All
+16,B cells~CD4 T cells,9.53E-01,All
+17,B cells~CD8 T cells,2.16E-01,All
+18,B cells~Macrophages,7.30E-01,All
+19,B cells.. Tumor cells,8.35E-01,All
+20,B cells.. Treg cells.,2.45E-01,All
+21,B cells~B cells,2.44E-01,All
+22,CD4 T cells~CD4 T cells,5.70E-01,Pleural
+23,CD4 T cells~CD8 T cells,5.97E-01,Pleural
+24,CD4 T cells~Macrophages,5.18E-01,Pleural
+25,CD4 T cells.. Tumor cells,1.22E-01,Pleural
+26,CD4 T cells.. Treg cells.,7.05E-01,Pleural
+27,CD8 T cells~CD8 T cells,9.25E-01,Pleural
+28,CD8 T cells~Macrophages,9.20E-01,Pleural
+29,CD8 T cells.. Tumor cells,6.68E-01,Pleural
+30,CD8 T cells.. Treg cells.,3.34E-01,Pleural
+31,Macrophages~Macrophages,2.89E-01,Pleural
+32,Macrophages.. Tumor cells,8.89E-01,Pleural
+33,Tumor cells.. Tumor cells,5.25E-02,Pleural
+34,Treg cells~.Macrophages,6.47E-03,Pleural
+35,Treg cells~ Tumor cells,5.78E-01,Pleural
+36,Treg cells~ Treg cells.,7.95E-01,Pleural
+37,B cells~CD4 T cells,6.28E-01,Pleural
+38,B cells~CD8 T cells,9.31E-01,Pleural
+39,B cells~Macrophages,3.66E-01,Pleural
+40,B cells.. Tumor cells,2.33E-01,Pleural
+41,B cells.. Treg cells.,1.55E-01,Pleural
+42,B cells~B cells,6.42E-01,Pleural
+43,CD4 T cells~CD4 T cells,4.39E-02,Peritoneal
+44,CD4 T cells~CD8 T cells,6.22E-01,Peritoneal
+45,CD4 T cells~Macrophages,1.98E-02,Peritoneal
+46,CD4 T cells.. Tumor cells,4.01E-01,Peritoneal
+47,CD4 T cells.. Treg cells.,8.19E-01,Peritoneal
+48,CD8 T cells~CD8 T cells,8.16E-01,Peritoneal
+49,CD8 T cells~Macrophages,7.49E-01,Peritoneal
+50,CD8 T cells.. Tumor cells,3.12E-02,Peritoneal
+51,CD8 T cells.. Treg cells.,1.15E-01,Peritoneal
+52,Macrophages~Macrophages,5.79E-01,Peritoneal
+53,Macrophages.. Tumor cells,5.20E-01,Peritoneal
+54,Tumor cells.. Tumor cells,2.83E-01,Peritoneal
+55,Treg cells~.Macrophages,2.71E-01,Peritoneal
+56,Treg cells~ Tumor cells,6.42E-03,Peritoneal
+57,Treg cells~ Treg cells.,9.69E-01,Peritoneal
+58,B cells~CD4 T cells,6.94E-01,Peritoneal
+59,B cells~CD8 T cells,2.46E-02,Peritoneal
+60,B cells~Macrophages,4.86E-01,Peritoneal
+61,B cells.. Tumor cells,4.88E-01,Peritoneal
+62,B cells.. Treg cells.,3.17E-01,Peritoneal
+63,B cells~B cells,8.96E-02,Peritoneal
