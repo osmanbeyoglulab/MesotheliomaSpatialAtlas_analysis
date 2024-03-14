@@ -19,3 +19,19 @@ Some itermidiate data generated in the pipe line is under /TMA_data folder in th
 ## Analysis code
 
 Out analysis pipeline involve both Python and R prgramming. The codes are located in the root folder. We also integrated relavent code to generate the manuscript figure in the /notebook folder
+
+## Citation
+If you find the data or code from this repository helpful, please cite this paper:
+```
+@inproceedings{Ma2023git,
+  title = {Spatial landscape of malignant pleural and peritoneal mesothelioma tumor immune microenvironment},
+  author = {Xiaojun Ma and 
+            David Lemberskya and 
+            Elena S Kimaf and 
+            Tullia C Brunoa and 
+            Michael J. Becicha and 
+            Joseph R. Testad and 
+            Hatice U Osmanbeyoglua},
+  url = {https://www.biorxiv.org/content/10.1101/2023.09.06.556559v1},
+  year = {2023},
+}
