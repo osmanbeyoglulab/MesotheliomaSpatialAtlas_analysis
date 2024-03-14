@@ -1,5 +1,6 @@
-
-<img src="https://github.com/osmanbeyoglulab/MesotheliomaSpatialAtlas_analyses/blob/main/assets/diagram.jpg" alt="drawing" width="600" margin="auto"/>
+<p align="center">
+  <img src="https://github.com/osmanbeyoglulab/MesotheliomaSpatialAtlas_analyses/blob/main/assets/diagram.jpg" alt="drawing" width="600"/>
+</p>
 
 
 ## Introduction
