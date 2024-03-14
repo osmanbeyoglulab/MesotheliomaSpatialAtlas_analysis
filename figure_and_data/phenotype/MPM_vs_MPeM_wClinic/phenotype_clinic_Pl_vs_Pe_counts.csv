@@ -1,0 +1,13 @@
+,count_pl,count_pe
+Grade.High,31,12
+Grade.Low,13,1
+AsbestosExposure.Yes,31,6
+AsbestosExposure.No,4,2
+smoking.Smoker,43,7
+smoking.Non-smoker,20,13
+Gender.Male,68,11
+Gender.Female,10,11
+Race.White,70,21
+Race.not_White,3,1
+agesplit.Young,21,10
+agesplit.Old,58,12
