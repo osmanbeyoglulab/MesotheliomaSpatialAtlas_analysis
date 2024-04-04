@@ -19,7 +19,7 @@ get_marker_label_2 = function(marker){
   return(labs[which(markers==marker)])
 }
 
-scatter_plot <- function(df, x, y, color, corr,  title, outpath, save=TRUE){
+scatter_plot <- function(df, x, y, color, corr,  title){
   
   df[[color]] = factor(df[[color]], levels=c("epithelioid","biphasic", "sarcomatoid", "Multicystic",  "Papillary", "Desmoplastic", "Not specified"))
 
@@ -51,9 +51,7 @@ scatter_plot <- function(df, x, y, color, corr,  title, outpath, save=TRUE){
   
   
   print(fig)
-  if (save){
-    ggsave(fig, width = 5.7, height = 4, dpi = 500, file=paste0(outpath, title, ".pdf"))
-  }
+  
 }
 
 ###########################################################
@@ -330,32 +328,30 @@ get_marker_color = function(marker){
 
 #################################################
 # used in the similarity_withn_among_patient.R
-box_plot_similarity <- function(df, x, y, pvalue, title, pathout){
+box_plot_similarity <- function(df, x, y, pvalue, title){
   
   g = ggplot(df, aes_string(x=x, y= y, fill=x)) +
     geom_boxplot( width = 0.7,   #box width
                   lwd=0.4,       #   line width of the box
-                  outlier.size = 0.07)  +   #outlier dot size  #outlier.shape = 2, can chage the shape of outlier
+                  outlier.size = 0.07)  +   #outlier dot size  #outlier.shape = 2, can change the shape of outlier
     geom_jitter(color="black", size=0.2, alpha=0.2, width = 0.2) +
     
     theme_bw()+
     
     theme(axis.text.x = element_text(angle = 0, vjust = 0, hjust=0.5, size=7)) +
     theme(axis.text.y = element_text(size=7)) +
-    theme(plot.title = element_text(hjust = 0.5)) # ,size=8, face = "bold")) +
-    theme(text=element_text(family="sans"))+
-    My_Theme +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    # theme(text=element_text(family="sans"))+
+    # My_Theme +
       
     ggtitle(paste("Pvalue = ",pvalue)) +
     ylab("Corr of density distr.of cores ") +
     xlab("")
-
    
-  
   print(g)
-  ggsave(g, width = 5, height = 4, file=paste0(pathout, title,".pdf"))
-  ggsave(g, width = 5, height = 4, dpi = 500, file=paste0(pathout, title,".png"))
-  dev.off()
+  # ggsave(g, width = 5, height = 4, file=paste0(pathout, title,".pdf"))
+  # ggsave(g, width = 5, height = 4, dpi = 500, file=paste0(pathout, title,".png"))
+  # dev.off()
   
 }
 
