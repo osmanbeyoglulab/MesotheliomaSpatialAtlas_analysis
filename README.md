@@ -14,17 +14,17 @@ We conducted multiplex immunofluorescence (mIF) analyses on tissue microarrays (
 
 The TMA_data from Akoya software which is the initial input of our data analysis pipeline. The unrecognized cells by Akoya have been removed. Data for each panel and patient clinic information can be downloaded from https://sites.pitt.edu/~xim33/Mesothelioma
 
-## Intermidiate data
+## Intermediate data
 Some intermediate data generated in the pipeline is under /TMA_data folder in the repository 
 
 ## Analysis code
 
-Out analysis pipeline involve both Python and R prgramming. The codes are located in the root folder. We also integrated relavent code to generate the manuscript figure in the /notebook folder
+Our analysis pipeline involves both Python and R programming. The codes are in the root folder. We also integrated relevant code to generate the manuscript figure in the /notebook folder.
 
 ## Citation
 If you find the data or code from this repository helpful, please cite this paper:
 ```
-@inproceedings{Ma2023git,
+@inproceedings {Ma2023git,
   title = {Spatial landscape of malignant pleural and peritoneal mesothelioma tumor immune microenvironment},
   author = {Xiaojun Ma and 
             David Lemberskya and 
