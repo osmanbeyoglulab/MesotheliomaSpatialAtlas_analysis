@@ -149,12 +149,13 @@ class CellNeighborhood(object):
 
         fc = np.log2(
             ((niche_clusters + ratio*tissue_avgs) / (niche_clusters + ratio*tissue_avgs).sum(axis=1, keepdims=True)) / tissue_avgs)
+
+        fc = self.scale_mat(fc, range_max=5, range_min = -5)
         fc = pd.DataFrame(fc, columns=self.sum_cols)
         
         print(fc.shape)
         return (fc)
-        # return (dc)
-# 
+ 
     def clustermap(self, save=False):
         if self.neighborhood_name == '':
             self.identifyNeighborhoods()
